@@ -1,4 +1,4 @@
-import Navbar from './components/Navbar'
+import Navbar from './components/Navbar.jsx'
 import Home from './pages/Home'
 import { useState, useEffect } from 'react'
 import { FaHistory, FaLightbulb, FaRocket, FaCode, FaPaintBrush, FaTools, FaGithub, FaExternalLinkAlt, FaSun, FaMoon, FaVolumeUp, FaVolumeMute, FaDatabase, FaBrain } from 'react-icons/fa'
