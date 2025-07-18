@@ -65,8 +65,8 @@ function AboutSection() {
 function SkillsSection() {
   const skills = {
     languages: [
-      "HTML", "CSS", "JavaScript", "TypeScript", "Python", "Bash", "C", "PHP", "Golang", "SQL", "Perl",
-      "React", "Flask", "Django", "FastAPI", "Hadoop", "Pandas", "Jupyter"
+      "HTML", "CSS", "JavaScript", "TypeScript", "Python", "Bash", "C", "PHP", "SQL",
+      "React", "Flask", "Django", "FastAPI", "Pandas", "Jupyter"
     ],
     styling: [
       "Tailwind CSS", "Bootstrap", "Sass", "Styled-Components", "Figma", "Canva"
