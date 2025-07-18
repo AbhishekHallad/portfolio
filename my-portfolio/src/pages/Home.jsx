@@ -42,7 +42,7 @@ export default function Home({ playClick }) {
           custom={3}
         >
           <Typewriter
-            words={['Software Engineer', 'DevOps Specialist', 'Ml Engineer', 'Full Stack Developer']}
+            words={['Software Engineer', 'DevOps Specialist', 'ML Engineer', 'Full Stack Developer']}
             loop={0}
             cursor
             cursorStyle='|'
@@ -74,10 +74,10 @@ export default function Home({ playClick }) {
           <a href="https://github.com/abhishekhallad" onClick={playClick} target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:hover:text-[#FFD600] hover:text-pink-500 transition text-2xl">
             <FaGithub />
           </a>
-          <a href="https://linkedin.com/in/abhishekhallad" onClick={playClick} target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:hover:text-[#FFD600] hover:text-pink-500 transition text-2xl">
+          <a href="https://linkedin.com/in/abhishek-hallad" onClick={playClick} target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:hover:text-[#FFD600] hover:text-pink-500 transition text-2xl">
             <FaLinkedin />
           </a>
-          <a href="mailto:abhishekhallad1998@gmail.com" onClick={playClick} className="text-gray-700 dark:hover:text-[#FFD600] hover:text-pink-500 transition text-2xl">
+          <a href="mailto:ahallad@uci.edu" onClick={playClick} className="text-gray-700 dark:hover:text-[#FFD600] hover:text-pink-500 transition text-2xl">
             <FaEnvelope />
           </a>
         </motion.div>

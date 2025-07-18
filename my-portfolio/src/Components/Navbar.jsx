@@ -20,10 +20,10 @@ export default function Navbar({ isMuted, isDarkMode, toggleMute, toggleTheme, p
           <a href="https://github.com/abhishekhallad" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200 text-xl" title="GitHub">
             <FaGithub />
           </a>
-          <a href="https://linkedin.com/in/abhishekhallad" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200 text-xl" title="LinkedIn">
+          <a href="https://linkedin.com/in/abhishek-hallad" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200 text-xl" title="LinkedIn">
             <FaLinkedin />
           </a>
-          <a href="mailto:abhishekhallad1998@gmail.com" className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200 text-xl" title="Email">
+          <a href="mailto:ahallad@uci.edu" className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200 text-xl" title="Email">
             <FaEnvelope />
           </a>
         </div>
