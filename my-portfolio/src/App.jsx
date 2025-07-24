@@ -46,7 +46,7 @@ function AboutSection() {
           <FaLightbulb className="text-4xl text-pink-500 dark:text-[#FFD600] mx-auto mb-4" />
           <h3 className="text-2xl font-bold mb-3">Present</h3>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-          Currently, I am pursuing my Master’s in Computer Science at UC Irvine, where I am deepening my expertise in cloud infrastructure, DevOps, and scalable system design. Alongside my studies, I am actively working on projects like CalRoute, a smart scheduling and routing application that integrates with Google APIs to optimize users’ daily tasks powered by LLMs and routing APIs and also wordked on many other projects. y current focus reflects my passion for building intelligent, reliable systems that combine backend engineering, cloud automation, and data-driven insights.
+          Currently, I am pursuing my Master’s in Computer Science at UC Irvine, where I am deepening my expertise in cloud infrastructure, DevOps, and scalable system design. Alongside my studies, I am actively working on projects like CalRoute, a smart scheduling and routing application that integrates with Google APIs to optimize users’ daily tasks powered by LLMs and routing APIs and also worked on many other projects. My current focus reflects my passion for building intelligent, reliable systems that combine backend engineering, cloud automation, and data-driven insights.
           </p>
         </motion.div>
 
