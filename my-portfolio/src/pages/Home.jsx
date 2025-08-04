@@ -59,7 +59,7 @@ export default function Home({ playClick }) {
           I'm a passionate software engineer based in USA currently studying masters in Computer Science at University of California, Irvine with 4 years of DevOps experience and a growing specialization in AI and full-stack development. I've led critical initiatives like zero-downtime cloud migrations, built AI-powered scheduling tools like CalRoute, and contributed to many developments projects. My focus lies in turning real-world needs into technical solutions with measurable impact. I'm currently exploring open source, productivity tech, and all things cloud.
         </motion.p>
         <motion.a
-          href="/resume.pdf"
+          href="https://drive.google.com/file/d/1sp0L_c6iGYm1m3wng27Z9pEN0RzGJnqy/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           onClick={playClick}
