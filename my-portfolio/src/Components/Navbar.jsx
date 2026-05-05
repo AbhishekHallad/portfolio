@@ -36,7 +36,7 @@ export default function Navbar({ isMuted, isDarkMode, toggleMute, toggleTheme, p
           <li><a href="#skills" onClick={handleLinkClick} className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200">Skills</a></li>
           <li><a href="#projects" onClick={handleLinkClick} className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200">Projects</a></li>
           <li><a href="#contact" onClick={handleLinkClick} className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200">Contact</a></li>
-          <li><a href="https://drive.google.com/file/d/1sp0L_c6iGYm1m3wng27Z9pEN0RzGJnqy/view?usp=drive_link" target="_blank" rel="noopener noreferrer" onClick={handleLinkClick} className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200">Resume</a></li>
+          <li><a href="https://drive.google.com/file/d/1ETx3q0gQDLxHrllGOv9d9V9zsE1p4Jq_/view?usp=sharing" target="_blank" rel="noopener noreferrer" onClick={handleLinkClick} className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200">Resume</a></li>
         </ul>
         <div className="flex items-center gap-4 border-l border-gray-200 dark:border-gray-700 pl-4">
           <button onClick={() => { playClick(); toggleTheme(); }} className="text-gray-600 dark:text-gray-300 hover:text-[#FFD600] transition-colors duration-200">
